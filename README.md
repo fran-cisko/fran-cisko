@@ -1,8 +1,11 @@
 
 
 - 👋 Hi, I’m Francisco Sciarretta.
+  
 - 👀 I’m interested in **Testing**, **Data Science**, and **ETL Data Testing**.
+  
 - 🌱 I’m currently learning **Testing** and [Profesorado en Informática](https://unipe.edu.ar/formacion/carreras/profesorados/item/655-profesorado-en-informatica), carrera de grado en la Universidad Pedagógica Nacional(Degree in Computer Science Teaching).
+  
 -  How to reach me:
     - <img src="https://github.com/fran-cisko/fran-cisko/assets/36769073/5010e582-a841-4763-a3d0-d963e2a68614"></img>  franciscosciarretta@gmail.com <br>
   
