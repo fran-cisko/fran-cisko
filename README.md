@@ -4,7 +4,7 @@
 - 📫 How to reach me:
   - franciscosciarretta@gmail.com <br>
   - [Linkedin](https://www.linkedin.com/in/francisco-sciarretta/) <br>
-  - [www.franciscosciarretta.com.ar](www.franciscosciarretta.com.ar)
+  - <a href="https://www.flaticon.es/iconos-gratis/pagina-web" title="página web iconos">[www.franciscosciarretta.com.ar](www.franciscosciarretta.com.ar)n</a> 
 
 <!---
  ✨ repository 
